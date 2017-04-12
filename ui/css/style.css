@@ -1440,26 +1440,7 @@ img {
   .hidden-print {
     display: none !important; } }
 
-@font-face {
-  font-family: 'zurich_bold_condensed_bt';
-  src: url("fonts/zurich__bold_condensed_bt-webfont.woff2") format("woff2"), url("fonts/zurich__bold_condensed_bt-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
 
-@font-face {
-  font-family: 'zurich_condensed_bt';
-  src: url("fonts/zurich__condensed_bt-webfont.woff2") format("woff2"), url("fonts/zurich__condensed_bt-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-
-@font-face {
-  font-family: 'zurich_light_bt';
-  src: url("fonts/zurich__light_bt-webfont.woff2") format("woff2"), url("fonts/zurich__light_bt-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-
-html {
-  font-family: zurich_condensed_bt; }
 
 .spacing--bottom-0 {
   margin-bottom: 0; }
