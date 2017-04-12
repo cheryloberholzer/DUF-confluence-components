@@ -2183,7 +2183,6 @@ h2.e-heading {
 
 h3,
 h3.e-heading {
-  font-family: "zurich_bold_condensed_bt";
   font-size: 1.2em;
   margin-top: 0;
   margin-bottom: 0.5em; }
@@ -2227,7 +2226,6 @@ h6.e-heading {
   vertical-align: middle;
   line-height: 29px;
   font-size: 20px;
-  font-family: "zurich_light_bt";
   width: 100%;
   height: 2em; }
 .e-input-text.focus, .focus.e-input-text__search, .e-input-text:focus, .e-input-text__search:focus {
@@ -2266,7 +2264,7 @@ h6.e-heading {
   vertical-align: middle;
   line-height: 29px;
   font-size: 20px;
-  font-family: "zurich_light_bt";
+  
   width: 100%;
   max-width: 100%; }
 .e-textarea.focus, .e-textarea:focus {
@@ -2292,7 +2290,7 @@ h6.e-heading {
   padding: 0;
   color: #687682; }
 .e-label__text {
-  font-family: "zurich_light_bt";
+  
   vertical-align: middle; }
 .e-label[disabled] {
   color: #a1b1ab; }
@@ -2369,7 +2367,7 @@ h6.e-heading {
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-family: "zurich_light_bt";
+  
   line-height: 29px;
   font-size: 24px;
   margin: 0;
@@ -2669,7 +2667,7 @@ h6.e-heading {
   vertical-align: middle;
   line-height: 29px;
   font-size: 20px;
-  font-family: "zurich_light_bt";
+  
   display: none; }
 .e-input-radio.focus, .e-input-radio:focus {
   outline: 0; }
@@ -2743,7 +2741,7 @@ h6.e-heading {
   vertical-align: middle;
   line-height: 29px;
   font-size: 20px;
-  font-family: "zurich_light_bt";
+  
   display: none; }
 .e-input-checkbox.focus, .e-input-checkbox:focus {
   outline: 0; }
@@ -2784,7 +2782,7 @@ h6.e-heading {
   vertical-align: middle;
   line-height: 29px;
   font-size: 20px;
-  font-family: "zurich_light_bt";
+  
   padding-right: 30px; }
 .e-select.focus, .e-select:focus {
   outline: 0; }
@@ -3181,7 +3179,7 @@ h6.e-heading {
 .c-main-footer__title a {
   font-size: 24px;
   line-height: 29px;
-  font-family: "zurich_light_bt";
+  
   color: #fff;
   font-weight: normal;
   text-decoration: none;
@@ -3455,7 +3453,7 @@ h6.e-heading {
   line-height: 29px;
   color: #687682;
   text-align: right;
-  font-family: "zurich_light_bt"; }
+   }
 
 .c-price__volume-prices__title__volume {
   padding-top: 30px;
@@ -3463,7 +3461,7 @@ h6.e-heading {
   line-height: 29px;
   color: #687682;
   text-align: left;
-  font-family: "zurich_light_bt"; }
+   }
 
 .c-price__volume-prices__volume {
   text-align: left;
@@ -3529,7 +3527,7 @@ h6.e-heading {
   color: white;
   background: #687682;
   padding: 10px 20px;
-  font-family: "zurich_light_bt";
+  
   border-bottom: 1px solid #fff;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3548,7 +3546,7 @@ h6.e-heading {
   color: white;
   background: #687682;
   padding: 10px 20px;
-  font-family: "zurich_light_bt";
+  
   border-bottom: 1px solid #fff; }
 .c-navigation__back-entry:hover {
   cursor: pointer; }
@@ -3621,7 +3619,7 @@ h6.e-heading {
   text-align: center;
   padding: 15px;
   text-decoration: none;
-  font-family: "zurich_light_bt"; }
+   }
 
 .c-main-content {
   position: relative; }
@@ -3720,7 +3718,7 @@ h6.e-heading {
 .c-storefinder-item__info__name {
   font-size: 24px;
   line-height: 29px;
-  font-family: "zurich_light_bt";
+  
   color: #ee7f00; }
 .c-storefinder-item__info__address {
   margin-top: 20px;
@@ -3790,10 +3788,10 @@ h6.e-heading {
 .c-marketing-paragraph__content__headline {
   font-size: 24px;
   line-height: 29px;
-  font-family: "zurich_light_bt";
+  
   color: #ee7f00; }
 .c-marketing-paragraph__content__text {
-  font-family: "zurich_light_bt";
+  
   margin-top: 15px;
   color: #687682;
   font-size: 18px;
@@ -3829,9 +3827,9 @@ h6.e-heading {
 .c-advertisement__content__headline {
   font-size: 18px;
   line-height: 21px;
-  font-family: "zurich_light_bt"; }
+   }
 .c-advertisement__content__text {
-  font-family: "zurich_light_bt";
+  
   margin-top: 10px;
   font-size: 14px;
   line-height: 16px; }
